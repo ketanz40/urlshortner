@@ -1,4 +1,5 @@
 URL Shortner README
+The main source code file is the main.go.
 
 	Thank you for using my URL Shortner. For this URL shortner, it is only in an API test state, meaning an API tester will be needed for this (examples include Talend API Chrome Extension, Postman, and others that can do the same job). Once the program is ran, you will know as in the terminal, a message called "Running on port 8091" will be displayed.
 	Once running successfully, use the API test, make a PUT request and enter "http://localhost:8091/create" as the request URL. Go to the body section of data to enter, make sure it is set to JSON. After that, make sure it is formatted correctly to look what it is below and enter the URl you wish to shorten in the indicated area. 
